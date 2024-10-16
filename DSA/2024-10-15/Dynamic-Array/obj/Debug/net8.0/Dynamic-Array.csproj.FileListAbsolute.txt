@@ -26,3 +26,4 @@ C:\Users\janit\OneDrive\Documents\university\DSA\2024-10-15\dynamic-array\obj\De
 C:\Users\janit\OneDrive\Documents\university\DSA\2024-10-15\dynamic-array\obj\Debug\net8.0\Dynamic-Array.pdb
 C:\Users\janit\OneDrive\Documents\university\DSA\2024-10-15\dynamic-array\obj\Debug\net8.0\Dynamic-Array.genruntimeconfig.cache
 C:\Users\janit\OneDrive\Documents\university\DSA\2024-10-15\dynamic-array\obj\Debug\net8.0\ref\Dynamic-Array.dll
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-10-15\Dynamic-array\obj\Debug\net8.0\Dynamic-Array.sourcelink.json
