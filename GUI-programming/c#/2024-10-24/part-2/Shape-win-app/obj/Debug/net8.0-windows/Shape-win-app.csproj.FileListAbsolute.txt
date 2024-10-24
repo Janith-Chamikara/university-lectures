@@ -1,0 +1,15 @@
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\bin\Debug\net8.0-windows\Shape-win-app.exe
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\bin\Debug\net8.0-windows\Shape-win-app.deps.json
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\bin\Debug\net8.0-windows\Shape-win-app.runtimeconfig.json
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\bin\Debug\net8.0-windows\Shape-win-app.dll
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\bin\Debug\net8.0-windows\Shape-win-app.pdb
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\Shape-win-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\Shape-win-app.AssemblyInfoInputs.cache
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\Shape-win-app.AssemblyInfo.cs
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\Shape-win-app.csproj.CoreCompileInputs.cache
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\Shape-win-app.sourcelink.json
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\Shape-win-app.dll
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\refint\Shape-win-app.dll
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\Shape-win-app.pdb
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\Shape-win-app.genruntimeconfig.cache
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\obj\Debug\net8.0-windows\ref\Shape-win-app.dll
