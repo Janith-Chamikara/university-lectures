@@ -1,0 +1,15 @@
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\bin\Debug\net8.0\2024-10-24.exe
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\bin\Debug\net8.0\2024-10-24.deps.json
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\bin\Debug\net8.0\2024-10-24.runtimeconfig.json
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\bin\Debug\net8.0\2024-10-24.dll
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\bin\Debug\net8.0\2024-10-24.pdb
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\2024-10-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\2024-10-24.AssemblyInfoInputs.cache
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\2024-10-24.AssemblyInfo.cs
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\2024-10-24.csproj.CoreCompileInputs.cache
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\2024-10-24.sourcelink.json
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\2024-10-24.dll
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\refint\2024-10-24.dll
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\2024-10-24.pdb
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\2024-10-24.genruntimeconfig.cache
+C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\obj\Debug\net8.0\ref\2024-10-24.dll
