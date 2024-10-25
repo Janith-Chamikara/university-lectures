@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shape_win_app
-build_property.ProjectDir = C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\Shape-win-app\
+build_property.ProjectDir = C:\Users\janit\OneDrive\Documents\university\GUI-programming\c#\2024-10-24\part-2\shape-win-app\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

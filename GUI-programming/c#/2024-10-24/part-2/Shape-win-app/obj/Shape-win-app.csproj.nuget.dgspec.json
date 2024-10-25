@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\Shape-win-app\\Shape-win-app.csproj": {}
+    "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\shape-win-app\\Shape-win-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\Shape-win-app\\Shape-win-app.csproj": {
+    "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\shape-win-app\\Shape-win-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\Shape-win-app\\Shape-win-app.csproj",
+        "projectUniqueName": "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\shape-win-app\\Shape-win-app.csproj",
         "projectName": "Shape-win-app",
-        "projectPath": "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\Shape-win-app\\Shape-win-app.csproj",
+        "projectPath": "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\shape-win-app\\Shape-win-app.csproj",
         "packagesPath": "C:\\Users\\janit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\Shape-win-app\\obj\\",
+        "outputPath": "C:\\Users\\janit\\OneDrive\\Documents\\university\\GUI-programming\\c#\\2024-10-24\\part-2\\shape-win-app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janit\\AppData\\Roaming\\NuGet\\NuGet.Config"
