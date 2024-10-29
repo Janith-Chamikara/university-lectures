@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lecture Notes</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Lecture Note</h1>
+    <h2>Topic: Cascading style sheets(CSS)</h2>
+    <h3>Date: 2024-10-29</h3>
+    <hr />
+    <h4>Key Points:</h4>
+    <ul>
+      <li>Ways of integrating CSS into html</li>
+      <li>CSS priority</li>
+    </ul>
+    <h4>Summary:</h4>
+    <p>
+      There are three main ways to add CSS to your HTML. First, there’s
+      <strong>inline CSS</strong>, where you add styles directly to a specific
+      element using the <code>style</code> attribute—perfect for small, quick
+      adjustments. Next, there’s <strong>internal CSS</strong>, which goes
+      inside a <code>&lt;style&gt;</code> tag in the
+      <code>&lt;head&gt;</code> of your HTML. This is useful for styling a
+      single page. Finally, <strong>external CSS</strong> is when you put your
+      styles in a separate file and link it to your HTML with a
+      <code>&lt;link&gt;</code> tag. This keeps things organized and is great
+      for making sure multiple pages all use the same styles.
+    </p>
+    <h5>External CSS file</h5>
+    <iframe src="styles.css" frameborder="0"></iframe>
+    <h5>Embedding CSS internally using style tag</h5>
+    <pre>
+        &lt;head&gt;
+            &lt;meta charset="UTF-8" /&gt;
+            &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;
+            &lt;title&gt;Document&lt;/title&gt;
+            &lt;style&gt;
+              h1 {
+                text-align: center;
+              }
+              h2 {
+                color: green;
+              }
+            &lt;/style&gt;
+        &lt;/head&gt;
+        </pre
+    >
+    <h5>Inline CSS styles</h5>
+    <pre>
+        &lt;h1 style="color:red;padding-left:0px;"&gt;Hello madam&lt;/&gt;
+    </pre>
+    <p>
+      CSS styles can also be <strong>local</strong> or <strong>global</strong>.
+      Local styles apply only to specific sections or pages, like with inline or
+      internal CSS. Global styles, usually in an external CSS file, apply across
+      the whole site to keep everything consistent.
+    </p>
+
+    <p>
+      When it comes to <strong>CSS priority</strong>, some styles have more
+      weight than others. Inline styles have the highest priority, followed by
+      internal, and then external styles. There’s also a rule for specificity:
+      IDs take priority over classes, and classes have more weight than basic
+      tags like <code>&lt;p&gt;</code> or <code>&lt;h1&gt;</code>. This order of
+      priority makes sure that the most specific styles are applied first.
+    </p>
+
+    <h4>Important Concepts:</h4>
+    <ol>
+      <li>Styling html elements using inline styles and style tags</li>
+      <li>Adding an external stylesheet</li>
+      <li>CSS priority: Inline > external > browser defaults</li>
+    </ol>
+  </body>
+</html>
