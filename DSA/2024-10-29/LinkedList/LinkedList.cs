@@ -50,4 +50,6 @@ public class LinkedList
         current = current.Next;
       }
     }
+
+    //todo : create inserat at & remove at
 }
