@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\janit\\.nuget\\packages\\": {}
+    "/home/janith/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janit\\OneDrive\\Documents\\university\\DSA\\2024-10-29\\LinkedList\\LinkedList.csproj",
+      "projectUniqueName": "/home/janith/Documents/university/university-lectures/DSA/2024-10-29/LinkedList/LinkedList.csproj",
       "projectName": "LinkedList",
-      "projectPath": "C:\\Users\\janit\\OneDrive\\Documents\\university\\DSA\\2024-10-29\\LinkedList\\LinkedList.csproj",
-      "packagesPath": "C:\\Users\\janit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janit\\OneDrive\\Documents\\university\\DSA\\2024-10-29\\LinkedList\\obj\\",
+      "projectPath": "/home/janith/Documents/university/university-lectures/DSA/2024-10-29/LinkedList/LinkedList.csproj",
+      "packagesPath": "/home/janith/.nuget/packages/",
+      "outputPath": "/home/janith/Documents/university/university-lectures/DSA/2024-10-29/LinkedList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\janit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/janith/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/janith/.dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
