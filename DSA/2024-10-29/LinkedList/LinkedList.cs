@@ -51,5 +51,5 @@ public class LinkedList
       }
     }
 
-    //todo : create inserat at & remove at
+    //todo : create insert at & remove at
 }
