@@ -1,8 +1,10 @@
 ﻿using LinkedListNameSpace;
 
 LinkedList linkedList = new LinkedList();
-linkedList.AddFront(1);
-linkedList.AddFront(3);
-linkedList.Print();
-linkedList.AddFront(2);
+linkedList.AddFront(10);
+linkedList.AddFront(30);
+linkedList.AddFront(20);
+linkedList.AddLast(28);
+linkedList.DeleteAt(4);
+
 linkedList.Print();
