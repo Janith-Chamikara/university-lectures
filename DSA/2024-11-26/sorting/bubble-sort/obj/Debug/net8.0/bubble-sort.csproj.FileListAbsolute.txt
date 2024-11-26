@@ -1,0 +1,15 @@
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\bin\Debug\net8.0\bubble-sort.exe
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\bin\Debug\net8.0\bubble-sort.deps.json
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\bin\Debug\net8.0\bubble-sort.runtimeconfig.json
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\bin\Debug\net8.0\bubble-sort.dll
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\bin\Debug\net8.0\bubble-sort.pdb
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\bubble-sort.AssemblyInfoInputs.cache
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\bubble-sort.AssemblyInfo.cs
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\bubble-sort.sourcelink.json
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\bubble-sort.dll
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\refint\bubble-sort.dll
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\bubble-sort.pdb
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\bubble-sort.genruntimeconfig.cache
+C:\Users\janit\OneDrive\Documents\university\DSA\2024-11-26\sorting\bubble-sort\obj\Debug\net8.0\ref\bubble-sort.dll
