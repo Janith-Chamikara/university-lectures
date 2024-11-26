@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hero Animation</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <audio autoplay>
+      <source src="epic-intro.mp3" type="audio/mpeg" />
+    </audio>
+    <div class="hero-animation">
+      <div class="hero-container">
+        <img src="hero-lamp.png" alt="Lamp image" class="hero-lamp" />
+        <img
+          src="hero-ellipse.png"
+          alt="Background ellipse"
+          class="hero-ellipse"
+        />
+
+        <div class="light-effect-container">
+          <div class="light-effect-wrapper">
+            <img
+              src="hero-light-effect.png"
+              alt="Lamp light effect"
+              class="hero-light-effect"
+            />
+            <div class="falling-man-container">
+              <img
+                src="falling-man.png"
+                alt="Falling man"
+                class="falling-man"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h1 class="heading unbounded-font">
+        View Live at :
+        <a
+          target="_blank"
+          class="text unbounded-font"
+          href="https://haxtreme-site.vercel.app/"
+          >HaXtreme.info</a
+        >
+      </h1>
+      <p class="text unbounded-font" style="color: aliceblue">
+        I recreated this animation using only HTML, CSS, and a bit of
+        JavaScript, whereas I originally built it with Framer Motion and Next JS
+      </p>
+    </div>
+    <script src="animation.js"></script>
+  </body>
+</html>

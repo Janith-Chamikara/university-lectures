@@ -50,4 +50,6 @@ public class LinkedList
         current = current.Next;
       }
     }
+
+    //insert at (val, position)
 }

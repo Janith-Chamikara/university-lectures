@@ -1,0 +1,13 @@
+/* local-styles.css */
+p {
+  color: red;
+  font-weight: bold;
+}
+
+/* center class */
+.center {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
+}

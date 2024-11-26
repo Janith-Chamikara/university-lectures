@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0a0000;
+}
+
+.unbounded-font {
+  font-family: "Unbounded", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.text {
+  text-align: center;
+  color: rgb(226, 215, 215);
+}
+
+.hero-animation {
+  width: 100%;
+  height: 183px;
+  overflow: hidden;
+  position: relative;
+}
+
+.heading {
+  width: 100%;
+  text-align: center;
+  color: rgb(226, 215, 215);
+}
+
+@media (min-width: 640px) {
+  .hero-animation {
+    height: 400px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-animation {
+    height: 671px;
+  }
+}
+
+.hero-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-lamp {
+  width: 15vw;
+  max-width: 378px;
+  position: absolute;
+  top: 5%;
+  right: 20%;
+  z-index: 60;
+}
+
+.hero-ellipse {
+  width: 120%;
+  aspect-ratio: 1 / 1;
+  position: absolute;
+  left: 11%;
+  bottom: -10%;
+  z-index: 50;
+  mix-blend-mode: soft-light;
+  filter: drop-shadow(0 0 20px rgba(255, 255, 255, 0.2));
+}
+
+.light-effect-container {
+  position: absolute;
+  top: -10%;
+  right: 10%;
+  width: 100%;
+  max-width: 1232px;
+  aspect-ratio: 1232 / 1013;
+  z-index: 20;
+  transform-origin: top center;
+  opacity: 0;
+  transform: scale(0.5);
+}
+
+@media (min-width: 768px) {
+  .light-effect-container {
+    top: 0;
+    right: 14%;
+  }
+}
+
+.light-effect-wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  animation: rotateLight 10s ease-in-out infinite alternate;
+  transform-origin: top center;
+}
+
+.hero-light-effect {
+  width: 100%;
+  height: 300px;
+}
+
+@media (min-width: 640px) {
+  .hero-light-effect {
+    height: 831px;
+  }
+}
+
+.falling-man-container {
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  z-index: 100;
+  opacity: 0;
+}
+
+.falling-man {
+  width: 100%;
+  height: auto;
+  animation: floatMan 2s ease-in-out infinite;
+}
+
+@keyframes rotateLight {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(10.479deg);
+  }
+}
+
+@keyframes floatMan {
+  0%,
+  100% {
+    transform: translateY(-5px);
+  }
+  50% {
+    transform: translateY(5px);
+  }
+}
