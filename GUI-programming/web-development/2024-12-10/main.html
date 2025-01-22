@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Variables and Scopes</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script>
+      var test = "I am var";
+      console.log(test);
+
+      test = "I am var updated";
+      console.log(test);
+
+      var test = "I am var redeclared";
+      console.log(test);
+
+      //let test = "test"; // Uncaught SyntaxError: Identifier 'test' has already been declared
+
+      if (true) {
+        let test = "I am blocked scoped let";
+        console.log(test);
+      }
+
+      if (true) {
+        const test = "I am blocked scoped const";
+        // test = "modified";//main.html:27 Uncaught TypeError: Assignment to constant variable.
+        console.log(test);
+      }
+
+      let x = 5;
+      let y = 4;
+      let sum;
+      sum = x + y;
+
+      sum++;
+      sum--;
+      console.log(sum);
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1>JavaScript Variables and Scopes</h1>
+    </header>
+    <main>
+      <section>
+        <h2>Variables</h2>
+        <p>In JavaScript, we have three ways to declare variables:</p>
+        <ul>
+          <li><code>var</code>: Function-scoped or globally-scoped</li>
+          <li><code>let</code>: Block-scoped</li>
+          <li><code>const</code>: Block-scoped, cannot be reassigned</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Scopes</h2>
+        <p>JavaScript has several types of scopes:</p>
+        <ul>
+          <li>Global Scope: Variables accessible from anywhere</li>
+          <li>Function Scope: Variables accessible only within a function</li>
+          <li>
+            Block Scope: Variables accessible only within a block (introduced
+            with ES6)
+          </li>
+        </ul>
+      </section>
+      <section>
+        <h2>Example</h2>
+        <pre><code>
+// Global scope
+var globalVar = "I'm global";
+
+function exampleFunction() {
+    // Function scope
+    var functionVar = "I'm function-scoped";
+    
+    if (true) {
+        // Block scope
+        let blockVar = "I'm block-scoped";
+        const constantVar = "I can't be reassigned";
+    }
+}
+            </code></pre>
+      </section>
+    </main>
+  </body>
+</html>
