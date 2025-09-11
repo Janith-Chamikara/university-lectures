@@ -1,0 +1,15 @@
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/bin/Debug/net8.0/mergeSort
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/bin/Debug/net8.0/mergeSort.deps.json
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/bin/Debug/net8.0/mergeSort.runtimeconfig.json
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/bin/Debug/net8.0/mergeSort.dll
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/bin/Debug/net8.0/mergeSort.pdb
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/mergeSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/mergeSort.AssemblyInfoInputs.cache
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/mergeSort.AssemblyInfo.cs
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/mergeSort.csproj.CoreCompileInputs.cache
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/mergeSort.sourcelink.json
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/mergeSort.dll
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/refint/mergeSort.dll
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/mergeSort.pdb
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/mergeSort.genruntimeconfig.cache
+/home/janith/Documents/university/university-lectures/DSA/mergeSort/obj/Debug/net8.0/ref/mergeSort.dll
